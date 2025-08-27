@@ -90,7 +90,7 @@
 
 .btn.btn-secondary:hover {
     background: var(--bs-primary) !important;
-    
+    color: var(--bs-secondary) !important;
 }
 
 /*** Topbar Start ***/
@@ -867,7 +867,3 @@
     background: var(--bs-primary) !important;
 }
 /*** copyright end ***/
-
-
-
-
